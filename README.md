@@ -5,6 +5,10 @@ Experiment with different configurations by adjusting the config.yaml file, allo
 
 After training, evaluate your model's performance using the evaluate.py script. This script will help you measure the accuracy and effectiveness of your forecasting model on test data.
 
+
+Conklin,Darrell. Bach Chorales. UCI Machine Learning Repository. https://doi.org/10.24432/C5GC7P.
+
+
 ```bash
 Copy code
 python evaluate.py --config configs/config.yaml
