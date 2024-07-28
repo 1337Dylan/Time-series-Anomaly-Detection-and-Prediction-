@@ -1,7 +1,7 @@
 # Time-series-Anomaly-Detection-and-Prediction-
 
-
-Experiment with different configurations by adjusting the config.yaml file, allowing customization of hyperparameters to suit your specific needs. The codebase includes detailed documentation and examples to facilitate ease of use and replication of results.
+AA-Forecast ECML 2023 Paper experiment with different configurations by adjusting the config.yaml file, allowing customization of hyperparameters to suit your specific needs.
+The paper does detection and prediction and is a good work to start your experiments. The codebase includes detailed documentation and examples to facilitate ease of use and replication of results.
 
 After training, evaluate your model's performance using the evaluate.py script. This script will help you measure the accuracy and effectiveness of your forecasting model on test data.
 
